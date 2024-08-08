@@ -1,26 +1,29 @@
-title: Wendell Thomas
+title: blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 백준우의 블로그 입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://junwoo0617.github.io"
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
+name: junwoo
 tagline: Full Stack Developer
-about-description: # Add Discription
+about-description: 저는 경동고 2학년 백준우 입니다.   # Add Discription
+
+
+
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
+
+
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
+email: junwoobaek6405@gmail.com # Add your Email address
+phone: 010 6405 7424 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: junwoo0617 # Add your Github handle
+instagram: '@junwoobaek_07' # Add your Twitter handle
 
 # Tracker
 analytics:
@@ -30,7 +33,7 @@ discus-identifier: # Add your Disqus identifier
 
 # Important settings
 assets:
-  sources:
+  sources:s
     - assets/fonts
     - assets/img
     - assets/js
