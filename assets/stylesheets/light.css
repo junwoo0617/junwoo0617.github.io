@@ -414,7 +414,7 @@ html {
 body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
-  background: #f3f3f3;
+  background: #0d11eb;
   color: #323232; }
 
 h1,
@@ -428,7 +428,7 @@ h6 {
   text-rendering: optimizeLegibility; }
 
 a {
-  color: #6F6F6F;
+  color: #464545;
   text-decoration: none;
   transition: all .3s; }
   a:hover {
